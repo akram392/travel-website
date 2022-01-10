@@ -1,0 +1,361 @@
+html{
+	scroll-behavior: smooth;
+}
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-size: 14px;
+	line-height: 24px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+
+.header-section {
+	width: 100%;
+	margin: 0px 0px 20px;
+}
+.header-section .bg-light{
+	background: #fff !important;
+}
+.header-section .navbar-light .navbar-nav .nav-link {
+    color: #000;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 0px 0px 0px 15px;
+}
+.header-section .navbar-light .navbar-nav .nav-link:hover , .header-section .navbar-light .navbar-nav .nav-link:focus{
+	color: #4497f3;
+}
+.header-section .navbar-light .navbar-nav .nav-link.active {
+	color: #4497f3;
+}
+.header-section .btn-primary {
+	background: transparent;
+	color: #4497f3;
+	border: 1px solid #4497f3;
+	margin: 0px 0px 0px 15px;
+}
+.header-section .btn-primary:hover , .header-section .btn-primary:focus{
+	background: #4497f3;
+	color: #fff;
+	border: 1px solid #4497f3;
+}
+
+
+.banner-section {
+    width: 100%;
+    padding: 180px 0px;
+    background: url(../images/banner.png) center top no-repeat;
+    background-size: cover;
+}
+.banner-section .banner-inner {
+	width: 100%;
+	padding: 40px 0px;
+}
+.banner-section .banner-inner h2{
+	font-size: 52px;
+	line-height: 62px;
+	font-weight: 700;
+	color: #091e40;
+	letter-spacing: 1px;
+	margin: 0px 0px 30px;
+}
+.banner-section .banner-inner p{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 400;
+}
+.button-group{
+	width: 100%;
+	padding: 30px 0px 0px;
+}
+.button-group .btn-primary{
+	padding: 15px 30px;
+	background: #4497f3;
+	color: #fff;
+	border: 1px solid #4497f3;
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	margin: 0px 20px 0px 0px;
+}
+.button-group .btn-primary:hover, .button-group .btn-primary:focus {
+	background: transparent;
+	color: #4497f3;
+	border: 1px solid #4497f3;
+}
+
+
+.booking {
+	width: 100%;
+	padding: 80px 0px;
+	background: url("../images/booking.png") center top no-repeat;
+	background-size: cover;
+}
+.booking h2{
+	font-size: 32px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #fff;
+	text-align: center;
+	margin: 50px 0px 0px;
+	text-transform: uppercase;
+}
+.booking h1{
+	font-size: 58px;
+	line-height: 68px;
+	font-weight: 600;
+	text-align: center;
+	color: #fff;
+	margin: 0px 0px 30px;
+}
+.booking .btn-info {
+    padding: 15px 40px;
+    background: transparent;
+    display: inline-block;
+    color: #fff;
+    border: 1px solid #fff;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+.booking .btn-primary{
+	padding: 15px 40px;
+	background: #4497f3;
+	color: #fff;
+	border: 1px solid #4497f3;
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	text-transform: capitalize;
+}
+.button-group .btn-primary:hover, .button-group .btn-primary:focus {
+	background: transparent;
+	color: #4497f3;
+	border: 1px solid #4497f3;
+}
+
+
+.feature {
+	width: 100%;
+	padding: 120px 0px 120px;
+}
+.feature .title {
+	margin: 0px 0px 15px 15px;
+}
+.feature .title h2{
+	font-size: 36px;
+	line-height: 46px;
+	font-weight: 700;
+	color: #091e40;
+	letter-spacing: 1px;
+	margin: 0px 0px 30px;
+}
+.feature .title p{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 400;
+	margin: 40px 0px 10px;
+}
+.feature .button-group .btn-primary{
+	padding: 15px 40px;
+	background: #4497f3;
+	color: #fff;
+	border: 1px solid #4497f3;
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	margin: 0px 0px 15px 15px;
+}
+.feature .button-group .btn-primary:hover, .feature .button-group .btn-primary:focus {
+	background: transparent;
+	color: #4497f3;
+	border: 1px solid #4497f3;
+}
+.owl-feature .owl-nav {
+	color: #000;
+}
+
+
+.travel {
+	width: 100%;
+	padding: 80px 0px;
+}
+.travel .owl-travel {
+	text-align: center;
+}
+.travel .title{
+	text-align: center;
+}
+.travel .title h2{
+	font-size: 42px;
+	line-height: 52px;
+	font-weight: 700;
+	color: #091e40;
+	letter-spacing: 1px;
+	margin: 0px 0px 30px;
+}
+.travel .title p{
+	font-size: 17px;
+	line-height: 27px;
+	font-weight: 400;
+	margin: 40px 0px 40px;
+}
+.owl-travel .owl-dot {
+	color: #000;
+}
+
+
+
+.traveller {
+	width: 100%;
+	padding: 80px 0px;
+}
+.traveller .title h2{
+	font-size: 42px;
+	line-height: 52px;
+	font-weight: 700;
+	color: #091e40;
+	letter-spacing: 1px;
+	margin: 0px 0px 30px;
+}
+.traveller .title p{
+	font-size: 17px;
+	line-height: 27px;
+	font-weight: 400;
+	margin: 40px 0px 40px;
+}
+.traveller .owl-move .client-img {
+	width: 85px;
+	height: 85px;
+	border-radius: 100%;
+	margin: 15px 0px 15px 0px;
+}
+/*.owl-nav .owl-next {
+	position: absolute;
+	top: calc(50% - 25%);
+	right: 0;
+	opacity: 1;
+	font-size: 30px !important;
+	z-index: 1;
+}
+.owl-nav .owl-prev {
+	position: absolute;
+	top: calc(50% - 25%);
+	right: 0;
+	opacity: 1;
+	font-size: 30px !important;
+	z-index: 1;
+}*/
+
+.funs {
+	width: 100%;
+	padding: 80px 0px;
+}
+.funs .fun-box {
+	width: 100%;
+	padding: 50px;
+	text-align: center;
+	border: 2px solid #08c;
+}
+.funs .fa-heart-o {
+	font-size: 65px;
+	color: #08c;
+}
+.fun-box .number {
+	font-size: 60px;
+	font-weight: 600;
+	line-height: 70px;
+}
+.funs .fa-user-o {
+	font-size: 65px;
+	color: #08c;
+}
+.fun-box .client {
+	font-size: 60px;
+	font-weight: 600;
+	line-height: 70px;
+}
+.funs .fa-comments-o {
+	font-size: 65px;
+	color: #08c;
+}
+.fun-box .blog {
+	font-size: 60px;
+	font-weight: 600;
+	line-height: 70px;
+}
+.fun-box h6 {
+	font-size: 20px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.traveller .move h6 {
+	font-size: 24px;
+	line-height: 34px;
+	font-weight: 700;
+	color: #091e40;
+	letter-spacing: 1px;
+	margin: 0px 0px 20px;
+}
+.traveller .move p{
+	font-size: 17px;
+	line-height: 27px;
+	font-weight: 400;
+	margin: 0px 0px 40px;
+}
+
+
+
+.footer-section{
+	width: 100%;
+	padding: 40px 0px;
+	background: #fff;
+}
+.footer-section p{
+	text-transform: uppercase;
+	color: #000;
+	text-align: center;
+}
+.social-icon{
+	width: 100%;
+	text-align: center;
+	padding: 0px 25px 0px 0px;
+}
+.social-icon ul{
+	width: 100%;
+	display: block;
+}
+.social-icon ul li{
+	display: inline-block;	
+}
+.social-icon ul li a{
+	display: block;
+	color: #fff;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 16px;
+	font-weight: 900;
+	margin: 0px 12px;
+	border-radius: 50%;
+	background: #4497f3;
+}
+.social-icon ul li a:hover{
+	background: #fff;
+	color: #4497f3;
+}
+
+

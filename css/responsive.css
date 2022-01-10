@@ -1,0 +1,458 @@
+/*Mini device -- Galaxy fold and mini phone */
+@media (min-width: 279px) and (max-width: 319px){
+	/*Code Start*/
+.navbar-nav {
+    margin: 25px 0px 0px;
+  }
+.header-section .btn-primary {
+    margin: 10px 0px 0px 15px;
+    padding: 5px 10px;
+}
+
+.funs .fun-box {
+    width: 100%;
+    margin: 0px 0px 20px;
+}
+
+.banner-section {
+    width: 100%;
+    padding: 100px 0px;
+}
+.banner-section .banner-inner h2 {
+    font-size: 32px;
+    line-height: 42px;
+}
+.banner-section .banner-inner p {
+    font-size: 10px;
+    line-height: 20px;
+}
+.button-group .btn-primary {
+    padding: 10px 15px;
+    font-size: 12px;
+    margin: 0px 0px 0px 0px;
+}
+
+.feature .title h2 {
+    font-size: 32px;
+    line-height: 42px;
+    margin: 40px 0px 20px;
+}
+.feature .title p {
+    font-size: 12px;
+    line-height: 22px;
+    margin: 40px 0px 25px;
+}
+.feature .button-group .btn-primary {
+    padding: 10px 25px;
+    font-size: 12px;
+    margin: 0px 0px 15px 15px;
+}
+
+.travel {
+    width: 100%;
+    padding: 20px 0px;
+}
+.travel .title h2 {
+    font-size: 32px;
+    line-height: 42px;
+}
+.travel .title p {
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.traveller {
+    width: 100%;
+    padding: 20px 0px;
+}
+.traveller .title h2 {
+    font-size: 32px;
+    line-height: 42px;
+    margin: 0px 0px 20px;
+}
+.traveller .title p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.traveller .owl-move .client-img {
+  margin: 15px 0px 15px 0px;
+}
+
+.booking {
+    width: 100%;
+    padding: 20px 0px;
+}
+.booking h2 {
+    font-size: 18px;
+}
+.booking h1 {
+    font-size: 42px;
+    line-height: 52px;
+}
+.booking .btn-info {
+    padding: 10px 25px;
+    border: 1px solid #fff;
+    font-size: 12px;
+    margin: 0px 0px 25px 0px;
+}
+.booking .btn-primary {
+    padding: 10px 30px;
+    font-size: 12px;
+}
+
+
+.footer-section p {
+    font-size: 10px;
+}
+.social-icon ul li a {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 12px;
+    margin: 0px 8px;
+}
+	/*Code End*/
+}
+@media (min-width: 320px) and (max-width: 480px){
+    /*Code Start*/
+.navbar-nav {
+    margin: 25px 0px 0px;
+  }
+.header-section .btn-primary {
+    margin: 10px 0px 0px 15px;
+    padding: 5px 10px;
+}
+
+.funs .fun-box {
+    width: 100%;
+    margin: 0px 0px 20px;
+}
+
+.banner-section {
+    width: 100%;
+    padding: 0px 0px;
+}
+.banner-section .banner-inner h2 {
+    font-size: 32px;
+    line-height: 42px;
+}
+.banner-section .banner-inner p {
+    font-size: 10px;
+    line-height: 20px;
+}
+.button-group .btn-primary {
+    padding: 10px 15px;
+    font-size: 12px;
+    margin: 0px 0px 0px 0px;
+}
+
+.feature .title h2 {
+    font-size: 32px;
+    line-height: 42px;
+    margin: 40px 0px 20px;
+}
+.feature .title p {
+    font-size: 12px;
+    line-height: 22px;
+    margin: 40px 0px 25px;
+}
+.feature .button-group .btn-primary {
+    padding: 10px 25px;
+    font-size: 12px;
+    margin: 0px 0px 15px 15px;
+}
+
+.travel {
+    width: 100%;
+    padding: 20px 0px;
+}
+.travel .title h2 {
+    font-size: 32px;
+    line-height: 42px;
+}
+.travel .title p {
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.traveller {
+    width: 100%;
+    padding: 20px 0px;
+}
+.traveller .title h2 {
+    font-size: 32px;
+    line-height: 42px;
+    margin: 0px 0px 20px;
+}
+.traveller .title p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.traveller .owl-move .client-img {
+  margin: 15px 0px 15px 0px;
+}
+
+.booking {
+    width: 100%;
+    padding: 20px 0px;
+}
+.booking h2 {
+    font-size: 18px;
+}
+.booking h1 {
+    font-size: 42px;
+    line-height: 52px;
+}
+.booking .btn-info {
+    padding: 10px 25px;
+    border: 1px solid #fff;
+    font-size: 12px;
+    margin: 0px 0px 25px 0px;
+}
+.booking .btn-primary {
+    padding: 10px 30px;
+    font-size: 12px;
+}
+
+
+.footer-section p {
+    font-size: 10px;
+}
+.social-icon ul li a {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 12px;
+    margin: 0px 8px;
+}
+  /*Code End*/
+}
+/*Device -- Low regulation tablet, phone*/
+@media (min-width: 481px) and (max-width: 767px){
+  /*Code Start*/
+.navbar-nav {
+    margin: 25px 0px 0px;
+  }
+.header-section .btn-primary {
+    margin: 10px 0px 0px 15px;
+    padding: 5px 10px;
+}
+
+.funs .fun-box {
+    width: 100%;
+    margin: 0px 0px 20px;
+}
+
+.banner-section {
+    width: 100%;
+    padding: 0px 0px;
+}
+.banner-section .banner-inner h2 {
+    font-size: 32px;
+    line-height: 42px;
+}
+.banner-section .banner-inner p {
+    font-size: 10px;
+    line-height: 20px;
+}
+.button-group .btn-primary {
+    padding: 10px 15px;
+    font-size: 12px;
+    margin: 0px 0px 0px 0px;
+}
+
+.feature .title h2 {
+    font-size: 32px;
+    line-height: 42px;
+    margin: 40px 0px 20px;
+}
+.feature .title p {
+    font-size: 12px;
+    line-height: 22px;
+    margin: 40px 0px 25px;
+}
+.feature .button-group .btn-primary {
+    padding: 10px 25px;
+    font-size: 12px;
+    margin: 0px 0px 15px 15px;
+}
+
+.travel {
+    width: 100%;
+    padding: 20px 0px;
+}
+.travel .title h2 {
+    font-size: 32px;
+    line-height: 42px;
+}
+.travel .title p {
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.traveller {
+    width: 100%;
+    padding: 20px 0px;
+}
+.traveller .title h2 {
+    font-size: 32px;
+    line-height: 42px;
+    margin: 0px 0px 20px;
+}
+.traveller .title p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.traveller .owl-move .client-img {
+  margin: 15px 0px 15px 0px;
+}
+
+.booking {
+    width: 100%;
+    padding: 20px 0px;
+}
+.booking h2 {
+    font-size: 18px;
+}
+.booking h1 {
+    font-size: 42px;
+    line-height: 52px;
+}
+.booking .btn-info {
+    padding: 10px 25px;
+    border: 1px solid #fff;
+    font-size: 12px;
+    margin: 0px 0px 25px 0px;
+}
+.booking .btn-primary {
+    padding: 10px 30px;
+    font-size: 12px;
+}
+
+
+.footer-section p {
+    font-size: 10px;
+}
+.social-icon ul li a {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 12px;
+    margin: 0px 8px;
+}
+  /*Code End*/
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+  /*Code Start*/
+.navbar-nav {
+    margin: 25px 0px 0px;
+  }
+.header-section .btn-primary {
+    margin: 10px 0px 0px 15px;
+    padding: 5px 10px;
+}
+
+.banner-section {
+    width: 100%;
+    padding: 100px 0px;
+}
+.banner-section .banner-inner h2 {
+    font-size: 38px;
+    line-height: 48px;
+}
+.banner-section .banner-inner p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.button-group {
+    width: 100%;
+    padding: 15px 0px 0px;
+}
+.button-group .btn-primary {
+    padding: 10px 15px;
+    font-size: 12px;
+    margin: 0px 0px 0px 0px;
+}
+
+.feature .title h2 {
+    font-size: 38px;
+    line-height: 48px;
+    margin: 40px 0px 20px;
+}
+.feature .title p {
+    font-size: 12px;
+    line-height: 22px;
+    margin: 40px 0px 25px;
+}
+.feature .button-group .btn-primary {
+    padding: 10px 25px;
+    font-size: 12px;
+    margin: 0px 0px 15px 15px;
+}
+
+.travel {
+    width: 100%;
+    padding: 20px 0px;
+}
+.travel .title h2 {
+    font-size: 38px;
+    line-height: 48px;
+}
+.travel .title p {
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.traveller {
+    width: 100%;
+    padding: 20px 0px;
+}
+.traveller .title h2 {
+    font-size: 38px;
+    line-height: 48px;
+    margin: 0px 0px 20px;
+}
+.traveller .title p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.traveller .owl-move .client-img {
+  margin: 15px 0px 15px 0px;
+}
+
+.booking {
+    width: 100%;
+    padding: 20px 0px;
+}
+.booking h2 {
+    font-size: 18px;
+}
+.booking h1 {
+    font-size: 42px;
+    line-height: 52px;
+}
+.booking .btn-info {
+    padding: 10px 25px;
+    border: 1px solid #fff;
+    font-size: 12px;
+    margin: 0px 0px 25px 0px;
+}
+.booking .btn-primary {
+    padding: 10px 30px;
+    font-size: 12px;
+}
+
+
+.footer-section p {
+    font-size: 10px;
+}
+.social-icon ul li a {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 12px;
+    margin: 0px 8px;
+}
+  /*Code End*/
+}
